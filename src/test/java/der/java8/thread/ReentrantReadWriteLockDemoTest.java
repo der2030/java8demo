@@ -16,7 +16,6 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringBootTest
 public class ReentrantReadWriteLockDemoTest {
-
     @Test
     public void testReadWriteLock() {
         ReentrantReadWriteLock rrwLock = new ReentrantReadWriteLock();
