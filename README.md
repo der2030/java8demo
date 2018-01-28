@@ -6,6 +6,9 @@
 ## 2 lambda
  2-1 Custom filter -BookFilter <br>
  2-2 Basic Stream <br>
+ 2-3 CompareTo <br>
+ 2-4 Default Method <br>
+ 2-5 Function <br>
 ## 3 thread
  3-1 Executors <br>
  3-2 Synchronized <br>
